@@ -1,0 +1,14 @@
+C:\Users\Григорий\Documents\Учеба\Rogalik\Rogalik\bin\Debug\net8.0\Roguelike.exe
+C:\Users\Григорий\Documents\Учеба\Rogalik\Rogalik\bin\Debug\net8.0\Roguelike.deps.json
+C:\Users\Григорий\Documents\Учеба\Rogalik\Rogalik\bin\Debug\net8.0\Roguelike.runtimeconfig.json
+C:\Users\Григорий\Documents\Учеба\Rogalik\Rogalik\bin\Debug\net8.0\Roguelike.dll
+C:\Users\Григорий\Documents\Учеба\Rogalik\Rogalik\bin\Debug\net8.0\Roguelike.pdb
+C:\Users\Григорий\Documents\Учеба\Rogalik\Rogalik\obj\Debug\net8.0\Roguelike.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Григорий\Documents\Учеба\Rogalik\Rogalik\obj\Debug\net8.0\Roguelike.AssemblyInfoInputs.cache
+C:\Users\Григорий\Documents\Учеба\Rogalik\Rogalik\obj\Debug\net8.0\Roguelike.AssemblyInfo.cs
+C:\Users\Григорий\Documents\Учеба\Rogalik\Rogalik\obj\Debug\net8.0\Roguelike.csproj.CoreCompileInputs.cache
+C:\Users\Григорий\Documents\Учеба\Rogalik\Rogalik\obj\Debug\net8.0\Roguelike.dll
+C:\Users\Григорий\Documents\Учеба\Rogalik\Rogalik\obj\Debug\net8.0\refint\Roguelike.dll
+C:\Users\Григорий\Documents\Учеба\Rogalik\Rogalik\obj\Debug\net8.0\Roguelike.pdb
+C:\Users\Григорий\Documents\Учеба\Rogalik\Rogalik\obj\Debug\net8.0\Roguelike.genruntimeconfig.cache
+C:\Users\Григорий\Documents\Учеба\Rogalik\Rogalik\obj\Debug\net8.0\ref\Roguelike.dll
